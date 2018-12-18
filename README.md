@@ -2,6 +2,17 @@
 
 > A Vue.js project
 
+# Environment Setup
+
+``` 
+# install node
+sudo apt-get install -y nodejs
+
+# install vue.js
+ npm install -g vue-cli
+```
+
+
 ## Build Setup
 
 ``` bash
